@@ -1,4 +1,4 @@
--- Proyecto final: DATABASE LIBRERIA --
+-- Proyecto: DATABASE LIBRERIA --
 
 -- Creo la base de datos
 CREATE DATABASE libreriaDB;
