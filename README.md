@@ -61,7 +61,7 @@ El modelo refleja las relaciones entre las entidades:
 - `Venta (1:N DetalleVenta)`  
 - `Libro (1:N DetalleVenta)`  
 
-El diagrama completo está en el archivo `Libreria.pdf`.
+![Modelo ER](modelo_er.png)
 
 ---
 
